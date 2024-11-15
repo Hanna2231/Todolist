@@ -1,0 +1,22 @@
+/* App.css */
+.title {
+    text-align: center;   /* 제목을 중앙 정렬 */
+    font-size: 36px;       /* 글자 크기 */
+    color: #007bff;        /* 텍스트 색상 */
+    margin-bottom: 20px;   /* 제목과 내용 사이 간격 */
+    font-family: 'Arial', sans-serif;  /* 폰트 설정 */
+  }
+  
+  .App {
+    padding: 20px;  /* 전체 레이아웃에 여백을 주기 */
+    font-family: Arial, sans-serif;  /* 폰트 설정 */
+  }
+
+.pjtName{
+  text-align: center;
+  font-size: 20px;
+}
+
+.primary{
+  text-align: right; /* 텍스트를 오른쪽으로 정렬 */
+}
